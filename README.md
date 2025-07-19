@@ -4,57 +4,80 @@
 
 <h1 align="center">Hi, I'm Ismail Markhi 👋</h1>
 <p align="center">
-  A passionate developer crafting responsive, sleek, and scalable digital experiences.
+  A passionate Web Developer focused on crafting responsive, sleek, and scalable digital experiences.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-Hello, I'm **Ismail Markhi**, a mobile and web developer focused on designing intuitive, accessible, and scalable applications. I love turning ideas into beautiful, functional code that makes a difference.
+Hello, everyone! I’m passionate about **web development**, specializing in creating sleek, responsive, and scalable digital experiences that truly engage users. I have a solid foundation in:
 
-### 🌱 Currently Learning
-- **Laravel**, **React**, and **Node.js** for full-stack app development
+- **HTML5**, **CSS3**, **TailwindCSS**
+- **JavaScript**, **jQuery**, **React**
+- **PHP**, **Laravel**
 
-### 💞 Looking to Collaborate On
-- Full-stack projects  
-- Creative coding challenges  
-- Open-source contributions
+🌱 **Currently Learning:**  
+Diving into **Laravel** to strengthen my backend skills and exploring **Node.js** to complete my full-stack development journey.
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ismail-markhi-a67033317/)
-- [Email](mailto:ismailmarkhi17@gmail.com)
+💞 **Looking to Collaborate On:**  
+- Full-stack web applications  
+- Open source contributions  
+- Creative coding challenges and hackathons
 
-### ⚡ Fun Fact
-> I debug like solving mysteries—my clues are semicolons, brackets, and a good sense of humor.
+📫 **Let’s Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/ismailmarkhi)  
+- [Email](mailto:ismailmarkhi17@gmail.com)  
+
+😄 **Pronouns:** He / Him  
+⚡ **Fun Fact:** I love clean code and beautiful interfaces. To me, coding is an art form!
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠 Skills & Technologies
 
-### 🧪 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+#### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+
+#### Tools & Platforms
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-
-### ⚙️ Tools & Platforms
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp&logoColor=FB7A24)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
 
-<a href="https://github.com/IsmailMarkhi">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=IsmailMarkhi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,facc15,f59e0b,f97316&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=000&bg_color=0,facc15,f59e0b,f97316&theme=graywhite" />
-</a>
+[🛍 FeatureShoes Store](https://github.com/IsmailMarkhi/FeatureShoes) — Responsive e-commerce store with modern UI  
+[🧰 PHP Auth System](https://github.com/IsmailMarkhi/php-auth) — Authentication system built with PHP and MySQL  
+[📦 Order Form (Multi-Step)](https://github.com/IsmailMarkhi/order-form) — Interactive step-by-step order form  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=IsmailMarkhi&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&layout=compact&hide_border=true&theme=gruvbox" />
+</p>
+
+---
+
+### 🔍 What’s Next?
+
+As I continue exploring **full-stack development**, I’m excited to grow my backend skills and dive deeper into JavaScript ecosystems like **React** and **Node.js**. I’m always open to collaboration, feedback, and conversation — let’s build something amazing together!
+
+---
+
+<!---
+IsmailMarkhi/IsmailMarkhi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
