@@ -14,7 +14,7 @@
 Hello, everyone! I’m passionate about **web development**, specializing in crafting sleek, responsive, and scalable digital experiences that delight users. With a strong foundation in **HTML5**, **CSS3**, **TailwindCSS**, **JavaScript**, **jQuery**, and **React**, I am continuously refining my skills to bring innovative ideas to life.
 
 🌱 **Currently Learning:**  
-Exploring **Laravel** to strengthen my backend skills and build fully integrated full-stack solutions.
+Exploring **Laravel**, **React**, and **Node.js** to build powerful, full-stack web applications.
 
 💞 **Looking to Collaborate On:**  
 - Full-stack projects  
@@ -38,6 +38,7 @@ Exploring **Laravel** to strengthen my backend skills and build fully integrated
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=0769AD)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=339933)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=FF2D20)
 
