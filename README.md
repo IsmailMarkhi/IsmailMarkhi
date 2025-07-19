@@ -45,11 +45,14 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 
-#### Tools & Platforms
+---
+
+### ⚙️ Tools & Platforms
+
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-black?style=flat-square&logo=xampp&logoColor=FB7A24)
 
