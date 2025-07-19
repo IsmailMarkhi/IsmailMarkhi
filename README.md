@@ -9,8 +9,8 @@ I’m delving into **Laravel** to enhance my backend skills, aiming to merge my 
 I’m eager to team up on **full-stack projects**, contribute to **open source endeavors**, and participate in **creative coding challenges**. I believe that collaboration fuels innovation, and I’m excited about the potential synergies we can create together!
 
 📫 **Connect with Me:**  
-- [LinkedIn](https://www.linkedin.com/in/ismailmarkhi)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/ismail-markhi-a67033317/)  
+- [Email](mailto:ismailmarkhi17@gmail.com)  
 
 😄 **Pronouns:** He / Him  
 
