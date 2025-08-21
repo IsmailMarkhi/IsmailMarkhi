@@ -33,7 +33,7 @@ Diving into **Laravel** to strengthen my backend skills and exploring **Node.js*
 💞 **Looking to Collaborate On:**  
 - Full-stack web applications  
 - Open source contributions  
-- Creative coding challenges and hackathons
+- Creative coding challenges
 
 📫 **Let’s Connect:**  
 - [LinkedIn](https://www.linkedin.com/in/ismailmarkhi)  
