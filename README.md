@@ -26,22 +26,10 @@ Open to freelance and professional opportunities.
 </p>
 
 ---
-
 ## Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,php,laravel" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,php,laravel,python,mysql,git,gitlab,github,vscode,figma" />
 </p>
 
 ---
