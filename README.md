@@ -1,5 +1,5 @@
 <h1 align="center">Ismail Markhi</h1>
-<h3 align="center">Full-Stack Web Developer | React • Laravel • AI</h3>
+<h3 align="center">Full-Stack Software Engineer — React • Laravel</h3>
 
 ---
 
@@ -15,7 +15,7 @@ Focused on clean architecture, performance, and user-centric design.
 </p>
 
 <p align="center">
-Currently expanding expertise in Web Security and Artificial Intelligence.
+Currently expanding expertise in Web Security, Artificial Intelligence, and Python-based development.
 Open to freelance and professional opportunities.
 </p>
 
@@ -29,6 +29,7 @@ Open to freelance and professional opportunities.
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 </p>
@@ -44,7 +45,7 @@ Open to freelance and professional opportunities.
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,php,laravel" />
+<img src="https://skillicons.dev/icons?i=python,mysql,php,laravel" />
 </p>
 
 ### Tools
@@ -73,7 +74,7 @@ Open to freelance and professional opportunities.
 </p>
 
 <p align="center">
-Building modern web applications using JavaScript, PHP, and SQL
+Building modern web applications using JavaScript, PHP, Python, and SQL
 </p>
 
 ---
@@ -104,4 +105,4 @@ Building modern web applications using JavaScript, PHP, and SQL
 
 ## Summary
 
-Full-stack developer focused on building scalable, secure, and user-centric web applications using modern technologies.
+Full-stack software engineer focused on building scalable, secure, and user-centric web applications using modern technologies.
