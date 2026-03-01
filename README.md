@@ -7,21 +7,29 @@
 
 <p align="center">
 
-<strong>Full-Stack Web Developer</strong><br/>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<p align="center">
+Specialized in building modern, scalable web applications using React and Laravel.
+Focused on clean architecture, performance, and user-centric design.
+</p>
+
+<p align="center">
+Currently expanding expertise in Web Security and Artificial Intelligence.
+Open to freelance and professional opportunities.
+</p>
+
+<p align="center">
+<strong>Based in Morocco</strong>
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Security-Web%20Security-black?style=flat" />
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-8A2BE2?style=flat" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Goal-Full--Stack%20Freelancer-success?style=flat" />
-<img src="https://img.shields.io/badge/Location-Morocco-red?style=flat" />
+<p align="center">
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
 </p>
 
