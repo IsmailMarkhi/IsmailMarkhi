@@ -23,15 +23,6 @@ Open to freelance and professional opportunities.
 <strong>Based in Morocco</strong>
 </p>
 
-<br/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
 </p>
 
 ---
