@@ -28,7 +28,7 @@
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,xampp,figma" />
 </p>
 
 ---
