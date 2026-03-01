@@ -57,11 +57,23 @@
 
 ---
 
-## 📫 Contact Me
+## 🤝 Let's Connect
 
-- ✉️ ismailmarkhi17@gmail.com  
-- 🌐 Portfolio: https://my-world-teal.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/ismail-markhi-a67033317
+<p align="center">
+
+<a href="mailto:ismailmarkhi17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://my-world-teal.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View My Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ismail-markhi-a67033317">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
