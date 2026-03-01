@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ismail</h1>
+<h3 align="center">Future Web Developer Engineer | React • Laravel • AI Enthusiast</h3>
 
-<!--
-**IsmailMarkhi/IsmailMarkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Frontend & Backend Web Developer  
+- ⚛️ Currently learning **React & Advanced Laravel**
+- 🔐 Interested in Web Security & Ethical Hacking  
+- 🤖 Exploring Artificial Intelligence  
+- 🎯 Goal: Become a Freelance Full-Stack Developer  
+- 🌍 Based in Morocco  
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IsmailMarkhi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailMarkhi&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- ✉️ ismailmarkhi17@gmail.com  
+- 🌐 Portfolio: https://my-world-teal.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/ismail-markhi-a67033317
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just build websites — I build digital experiences 🚀
