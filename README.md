@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IsmailMarkhi&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsmailMarkhi&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ## 🏆 Core Programming Languages
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmailMarkhi&theme=tokyonight" />
 </p>
 
 <p align="center">
