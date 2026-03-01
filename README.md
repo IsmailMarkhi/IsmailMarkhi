@@ -45,10 +45,14 @@
 
 ---
 
-## 🏆 Top Languages
+## 🏆 Core Programming Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailMarkhi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+⚡ Building modern web apps using JavaScript, PHP and SQL
 </p>
 
 ---
