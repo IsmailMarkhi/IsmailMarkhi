@@ -61,20 +61,19 @@
 
 <p align="center">
 
-<a href="mailto:ismailmarkhi17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://my-world-teal.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ismail-markhi-a67033317">
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+<a href="https://github.com/IsmailMarkhi">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+</p>
 ---
 
 ## ⚡ Fun Fact
