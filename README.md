@@ -23,12 +23,12 @@
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,php,laravel" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,xampp,figma" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,figma" />
 </p>
 
 ---
