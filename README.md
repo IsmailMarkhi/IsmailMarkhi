@@ -5,12 +5,25 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend & Backend Web Developer  
-- ⚛️ Currently learning **React & Advanced Laravel**
-- 🔐 Interested in Web Security & Ethical Hacking  
-- 🤖 Exploring Artificial Intelligence  
-- 🎯 Goal: Become a Freelance Full-Stack Developer  
-- 🌍 Based in Morocco  
+<p align="center">
+
+<strong>💻 Full-Stack Web Developer</strong><br/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-FF2D20?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Security-Web%20Security%20%26%20Ethical%20Hacking-black?style=flat&logo=hackthebox&logoColor=green" />
+<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-8A2BE2?style=flat&logo=openai&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Goal-Freelance%20Full--Stack%20Developer-success?style=flat" />
+<img src="https://img.shields.io/badge/Location-Morocco-red?style=flat&logo=googlemaps&logoColor=white" />
+
+</p>
 
 ---
 
