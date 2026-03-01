@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">Future Web Developer Engineer | React • Laravel • AI Enthusiast</h3>
+<h1 align="center">Ismail Markhi</h1>
+<h3 align="center">Full-Stack Web Developer | React • Laravel • AI</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <p align="center">
 
-<strong>💻 Full-Stack Web Developer</strong><br/>
+<strong>Full-Stack Web Developer</strong><br/>
 
 <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-FF2D20?style=flat&logo=laravel&logoColor=white" />
@@ -15,19 +15,19 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Security-Web%20Security%20%26%20Ethical%20Hacking-black?style=flat&logo=hackthebox&logoColor=green" />
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-8A2BE2?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Web%20Security-black?style=flat" />
+<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-8A2BE2?style=flat" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Goal-Freelance%20Full--Stack%20Developer-success?style=flat" />
-<img src="https://img.shields.io/badge/Location-Morocco-red?style=flat&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal-Full--Stack%20Freelancer-success?style=flat" />
+<img src="https://img.shields.io/badge/Location-Morocco-red?style=flat" />
 
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsmailMarkhi&theme=tokyonight" />
@@ -58,19 +58,19 @@
 
 ---
 
-## 🏆 Core Programming Languages
+## Core Programming Languages
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmailMarkhi&theme=tokyonight" />
 </p>
 
 <p align="center">
-⚡ Building modern web apps using JavaScript, PHP and SQL
+Building modern web applications using JavaScript, PHP, and SQL
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
 <p align="center">
 
@@ -91,8 +91,9 @@
 </a>
 
 </p>
+
 ---
 
-## ⚡ Fun Fact
+## Summary
 
-> I don't just build websites — I build digital experiences 🚀
+Full-stack developer focused on building scalable, secure, and user-centric web applications using modern technologies.
