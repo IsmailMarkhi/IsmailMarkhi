@@ -5,7 +5,7 @@
 
 ## About Me
 
-<p align="center">n
+<p align="center">
 
 <h3 align="center">Full-Stack Web Developer</h3>
 
