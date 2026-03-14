@@ -29,7 +29,7 @@ Open to freelance and professional opportunities.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,php,nodejs,laravel,python,django,mysql,git,gitlab,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,php,nodejs,expressjs,laravel,python,django,mysql,git,gitlab,github,vscode,figma" />
 </p>
 
 ---
